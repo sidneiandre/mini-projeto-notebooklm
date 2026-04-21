@@ -1,7 +1,7 @@
 # mini-projeto-notebooklm
 projeto-de-benjamim-Graham
 
-O contexto foi o mesmo tema do projeto sobre investimento, ao qual alguns anos me tornei investidor e ter essa IA como base de conhecimento é fundamental para quem quer se aprofunda mais no assnto.
+O contexto foi o mesmo tema do projeto sobre investimento, ao qual alguns anos me tornei investidor e ter essa IA como base de conhecimento é fundamental para quem quer se aprofunda mais no assunto.
 
 Curadoria de Fontes:
 
